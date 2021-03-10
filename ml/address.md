@@ -9,6 +9,7 @@
 
 * Deep Contextual Embeddings for Address Classification in E-commerce (https://arxiv.org/abs/2007.03020)
 * Learning Locality Maps from Noisy Geospatial Labels (https://www.cse.iitd.ac.in/~dahiya/loc-maps-sac20.pdf)
+* [AddressNet: Robust Street Address Parser](https://towardsdatascience.com/addressnet-how-to-build-a-robust-street-address-parser-using-a-recurrent-neural-network-518d97b9aebd)
 
 
 ## Unrelated
