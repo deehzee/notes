@@ -14,7 +14,7 @@
 * `^b` then `x` to kill the current pane (or window if it only has one pane)
 * `^b` then `[` to enter copy mode, then four arrow keys to move, even past the visible point, which is great for scrolling--I don't use it much for copying/pasting.
 * `^b` then `L` to switch between sessions
-* `^b` then `0`-`9` to switch go to the window 0-9
+* `^b` then `0`-`9` to switch to the window 0-9
 * `^b` then `d` to detach a session
 * `^b` then `x` to kill a pane (or a window if it has a single pane)
 
