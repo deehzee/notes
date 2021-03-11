@@ -8,3 +8,8 @@
 * `Ctrl-Shift-Q`: Exit terminator.
 * `Ctrl-Shift-X`: Enlarge active window
 * `Ctrl-Alt-W`: Edit window title
+
+
+## Credit
+
+https://makandracards.com/makandra/26311-terminator-keyboard-shortcuts
