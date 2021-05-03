@@ -24,7 +24,7 @@
 * `tmux new -s <session-name>`: Create a new session (aka `new-session`)
 * `tmux switchc -t <session-name>`: Switch to the named session (aka `switch-client`)
 * `tmux ls`: List all sessions (aka `list-sessions`)
-* `tmux a -s <session_name>`: Attach or switch to a session (aka `attach`)
+* `tmux a -t <session_name>`: Attach or switch to a session (aka `attach`)
 * `:resizep -U N`: resize pane upward by `N` cells (aka `resize-pane`, possible directions: `U`, `D`, `L`, `R`)
 
 
